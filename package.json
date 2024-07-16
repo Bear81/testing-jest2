@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Bear81/testing-jest2#readme",
   "devDependencies": {
-    "jest": "^29.7.0"
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0"
   }
 }
